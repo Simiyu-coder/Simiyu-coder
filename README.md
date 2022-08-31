@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Simiyu-coder
+- 👋 Hi, I’m Simiyu Kelvin
 - 👀 I’m interested in ...full stack web development and cloud computing
 - 🌱 I’m currently learning ...cyber security and networking
 - 💞️ I’m looking to collaborate on ...
